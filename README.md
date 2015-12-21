@@ -1,5 +1,8 @@
 # LinkedIn Get Profile
 
+### DOCS
+https://developer.linkedin.com/docs/signin-with-linkedin
+
 Parameter|Required?|Details
 ---------|---------|-------
 linkedin_access_token | Yes | The ID of the spreadsheet you're reading

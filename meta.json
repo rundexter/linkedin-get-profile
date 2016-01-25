@@ -27,6 +27,12 @@
             "title":"URL"
         }
     ],
+    "providers": [{
+        "name": "linkedin",
+        "scopes": [
+            "r_basicprofile"
+        ]
+    }],
     "icon": "linkedin",
     "title": "LinkedIn Get Profile" /* Required.A display name for the module */
 }

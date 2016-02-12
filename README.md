@@ -1,4 +1,5 @@
 # LinkedIn Get Profile
+Retrieve basic profile data.
 
 ### DOCS
 https://developer.linkedin.com/docs/signin-with-linkedin
